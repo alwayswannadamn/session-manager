@@ -13,6 +13,8 @@
 
 **1.** Install Python - https://www.python.org/
 
-**2.** Run command - pip install -r requirements.txt
+**2.** Download this archive (.zip), or use the command - git clone https://github.com/alwayswannadamn/session-manager.git
 
-**3.** Run script in explorer, or - python sessionmanager.py
+**3.** Open archive and run command - pip install -r requirements.txt
+
+**4.** Run script in explorer, or - python sessionmanager.py
