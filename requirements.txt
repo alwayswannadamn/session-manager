@@ -1,0 +1,4 @@
+# all required libs
+pywin32
+pycryptodome
+psutil
