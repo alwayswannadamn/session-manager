@@ -10,6 +10,9 @@
 
 
 **INSTALLING**
+
 **1.** Install Python - https://www.python.org/
+
 **2.** Run command - pip install -r requirements.txt
+
 **3.** Run script in explorer, or - python sessionmanager.py
